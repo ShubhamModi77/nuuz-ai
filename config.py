@@ -1,0 +1,3 @@
+SECRET_KEY = "spVC9V3lv9qTSPT2MPPr0yMXPvW+pO/2O5MHrkPlycg="
+#USERNAME = "warptec"
+#PASSWORD = "warptec_2023"
